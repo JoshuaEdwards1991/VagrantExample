@@ -10,6 +10,6 @@ sudo apt-get update
 sudo apt-get -y install mysql-server
 sed -i "s/^bind-address/#bind-address/" /etc/mysql/my.cnf
 mysql -u root -proot -e "GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' IDENTIFIED BY 'root' WITH GRANT OPTION; FLUSH PRIVILEGES;"
-mysql -u root -proot -e "create database test;"
-mysql -u root -proot -e test < /sql/setup_db.sql
+mysql -u root -proot -e "create database test"
+mysql -u root -proot test < /sql/setup_db.sql
 sudo /etc/init.d/mysql restart
