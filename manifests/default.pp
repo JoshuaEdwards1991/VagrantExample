@@ -129,7 +129,7 @@ class phpmyadmin{
 }
 
 host {"mysql":
-  ip => '10.0.2.2',
+  ip => '127.0.0.1',
 }
 
 include base

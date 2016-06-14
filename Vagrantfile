@@ -7,9 +7,9 @@
 # you're doing.
 Vagrant.configure(2) do |config|
   #This speeds up subsequent provisions by creating an apt-cache on the host
-  if Vagrant.has_plugin?("vagrant-cachier")
-    config.cache.scope = :box
-  end
+  #if Vagrant.has_plugin?("vagrant-cachier")
+  #  config.cache.scope = :box
+  #end
   config.vm.define "web" do |web|
     config.vm.provider :virtualbox do |v|
       v.memory = 2048
@@ -26,26 +26,13 @@ Vagrant.configure(2) do |config|
       puppet.manifest_file = "default.pp"
     end
 
+    web.vm.synced_folder "sql", "/sql"
+    web.vm.provision :shell, path: 'scripts/install.sh'
+
     web.vm.provision "shell", inline: <<-SHELL
        echo "Hello from vagrant leek"
        rm /var/www/html/index.html
     SHELL
-  end
-
-  config.vm.define "db" do |db|
-    config.vm.provider :virtualbox do |v|
-      v.memory = 2048
-      v.cpus = 4
-    end
-    db.vm.box = "ubuntu/trusty64"
-    db.vm.network "forwarded_port", guest: 3306, host: 3306
-
-    db.vm.synced_folder "sql", "/sql"
-
-
-
-    db.vm.provision :shell, path: 'scripts/install.sh'
-
   end
 
 end

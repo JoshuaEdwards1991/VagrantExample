@@ -1,0 +1,261 @@
+[Thu Nov 12 10:02:40.882590 2015] [mpm_event:notice] [pid 9218:tid 139725406033792] AH00489: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Thu Nov 12 10:02:40.883057 2015] [core:notice] [pid 9218:tid 139725406033792] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Nov 12 10:02:43.053715 2015] [mpm_event:notice] [pid 9218:tid 139725406033792] AH00491: caught SIGTERM, shutting down
+[Thu Nov 12 10:02:44.111138 2015] [mpm_prefork:notice] [pid 9826] AH00163: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Thu Nov 12 10:02:44.111613 2015] [core:notice] [pid 9826] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Nov 12 10:02:45.313938 2015] [mpm_prefork:notice] [pid 9826] AH00169: caught SIGTERM, shutting down
+[Thu Nov 12 10:02:46.397354 2015] [mpm_prefork:notice] [pid 9902] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.14 configured -- resuming normal operations
+[Thu Nov 12 10:02:46.397854 2015] [core:notice] [pid 9902] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Nov 12 10:02:53.315780 2015] [mpm_prefork:notice] [pid 9902] AH00169: caught SIGTERM, shutting down
+[Thu Nov 12 10:02:54.360972 2015] [mpm_prefork:notice] [pid 10670] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.14 configured -- resuming normal operations
+[Thu Nov 12 10:02:54.362094 2015] [core:notice] [pid 10670] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Nov 12 10:03:41.527582 2015] [mpm_prefork:notice] [pid 10670] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.0.2.15. Set the 'ServerName' directive globally to suppress this message
+[Thu Nov 12 10:03:41.702622 2015] [mpm_prefork:notice] [pid 10670] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.14 configured -- resuming normal operations
+[Thu Nov 12 10:03:41.703281 2015] [core:notice] [pid 10670] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Nov 12 10:03:42.470404 2015] [mpm_prefork:notice] [pid 10670] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.0.2.15. Set the 'ServerName' directive globally to suppress this message
+[Thu Nov 12 10:03:42.609604 2015] [mpm_prefork:notice] [pid 10670] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.14 configured -- resuming normal operations
+[Thu Nov 12 10:03:42.614575 2015] [core:notice] [pid 10670] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Nov 12 10:03:42.656614 2015] [mpm_prefork:notice] [pid 10670] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.0.2.15. Set the 'ServerName' directive globally to suppress this message
+[Thu Nov 12 10:03:42.841487 2015] [mpm_prefork:notice] [pid 10670] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.14 configured -- resuming normal operations
+[Thu Nov 12 10:03:42.843026 2015] [core:notice] [pid 10670] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Nov 12 11:44:02.635705 2015] [mpm_event:notice] [pid 9417:tid 140123777226624] AH00489: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Thu Nov 12 11:44:02.636167 2015] [core:notice] [pid 9417:tid 140123777226624] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Nov 12 11:44:06.060732 2015] [mpm_event:notice] [pid 9417:tid 140123777226624] AH00491: caught SIGTERM, shutting down
+[Thu Nov 12 11:44:07.168949 2015] [mpm_prefork:notice] [pid 10025] AH00163: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Thu Nov 12 11:44:07.172555 2015] [core:notice] [pid 10025] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Nov 12 11:44:08.508463 2015] [mpm_prefork:notice] [pid 10025] AH00169: caught SIGTERM, shutting down
+[Thu Nov 12 11:44:09.651644 2015] [mpm_prefork:notice] [pid 10101] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.14 configured -- resuming normal operations
+[Thu Nov 12 11:44:09.651722 2015] [core:notice] [pid 10101] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Nov 12 11:44:31.525568 2015] [mpm_prefork:notice] [pid 10101] AH00169: caught SIGTERM, shutting down
+[Thu Nov 12 11:44:32.598788 2015] [mpm_prefork:notice] [pid 10869] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.14 configured -- resuming normal operations
+[Thu Nov 12 11:44:32.600848 2015] [core:notice] [pid 10869] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Nov 12 11:49:19.438401 2015] [mpm_prefork:notice] [pid 10869] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.0.2.15. Set the 'ServerName' directive globally to suppress this message
+[Thu Nov 12 11:49:19.666799 2015] [mpm_prefork:notice] [pid 10869] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.14 configured -- resuming normal operations
+[Thu Nov 12 11:49:19.667295 2015] [core:notice] [pid 10869] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Nov 12 11:49:20.472538 2015] [mpm_prefork:notice] [pid 10869] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.0.2.15. Set the 'ServerName' directive globally to suppress this message
+[Thu Nov 12 11:49:20.611455 2015] [mpm_prefork:notice] [pid 10869] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.14 configured -- resuming normal operations
+[Thu Nov 12 11:49:20.611686 2015] [core:notice] [pid 10869] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Nov 12 11:49:20.707562 2015] [mpm_prefork:notice] [pid 10869] AH00171: Graceful restart requested, doing restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 10.0.2.15. Set the 'ServerName' directive globally to suppress this message
+[Thu Nov 12 11:49:20.920240 2015] [mpm_prefork:notice] [pid 10869] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.14 configured -- resuming normal operations
+[Thu Nov 12 11:49:20.923428 2015] [core:notice] [pid 10869] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Nov 12 17:58:44.739343 2015] [:error] [pid 12155] [client 10.0.2.2:56536] PHP Notice:  Undefined variable: con in /var/www/html/db.php on line 19
+[Thu Nov 12 17:58:44.739549 2015] [:error] [pid 12155] [client 10.0.2.2:56536] PHP Stack trace:
+[Thu Nov 12 17:58:44.739671 2015] [:error] [pid 12155] [client 10.0.2.2:56536] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 17:58:44.739775 2015] [:error] [pid 12155] [client 10.0.2.2:56536] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/html/db.php on line 19
+[Thu Nov 12 17:58:44.739855 2015] [:error] [pid 12155] [client 10.0.2.2:56536] PHP Stack trace:
+[Thu Nov 12 17:58:44.739938 2015] [:error] [pid 12155] [client 10.0.2.2:56536] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 17:58:44.740016 2015] [:error] [pid 12155] [client 10.0.2.2:56536] PHP   2. mysqli_query() /var/www/html/db.php:19
+[Thu Nov 12 17:58:44.740122 2015] [:error] [pid 12155] [client 10.0.2.2:56536] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /var/www/html/db.php on line 21
+[Thu Nov 12 17:58:44.740195 2015] [:error] [pid 12155] [client 10.0.2.2:56536] PHP Stack trace:
+[Thu Nov 12 17:58:44.740270 2015] [:error] [pid 12155] [client 10.0.2.2:56536] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 17:59:44.286524 2015] [:error] [pid 12158] [client 10.0.2.2:56572] PHP Notice:  Undefined variable: con in /var/www/html/db.php on line 19
+[Thu Nov 12 17:59:44.286716 2015] [:error] [pid 12158] [client 10.0.2.2:56572] PHP Stack trace:
+[Thu Nov 12 17:59:44.286832 2015] [:error] [pid 12158] [client 10.0.2.2:56572] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 17:59:44.286927 2015] [:error] [pid 12158] [client 10.0.2.2:56572] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/html/db.php on line 19
+[Thu Nov 12 17:59:44.287043 2015] [:error] [pid 12158] [client 10.0.2.2:56572] PHP Stack trace:
+[Thu Nov 12 17:59:44.287122 2015] [:error] [pid 12158] [client 10.0.2.2:56572] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 17:59:44.287196 2015] [:error] [pid 12158] [client 10.0.2.2:56572] PHP   2. mysqli_query() /var/www/html/db.php:19
+[Thu Nov 12 17:59:44.287390 2015] [:error] [pid 12158] [client 10.0.2.2:56572] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /var/www/html/db.php on line 21
+[Thu Nov 12 17:59:44.287488 2015] [:error] [pid 12158] [client 10.0.2.2:56572] PHP Stack trace:
+[Thu Nov 12 17:59:44.287565 2015] [:error] [pid 12158] [client 10.0.2.2:56572] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 17:59:45.602233 2015] [:error] [pid 12159] [client 10.0.2.2:56574] PHP Notice:  Undefined variable: con in /var/www/html/db.php on line 19
+[Thu Nov 12 17:59:45.602419 2015] [:error] [pid 12159] [client 10.0.2.2:56574] PHP Stack trace:
+[Thu Nov 12 17:59:45.602544 2015] [:error] [pid 12159] [client 10.0.2.2:56574] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 17:59:45.603462 2015] [:error] [pid 12159] [client 10.0.2.2:56574] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/html/db.php on line 19
+[Thu Nov 12 17:59:45.603569 2015] [:error] [pid 12159] [client 10.0.2.2:56574] PHP Stack trace:
+[Thu Nov 12 17:59:45.603681 2015] [:error] [pid 12159] [client 10.0.2.2:56574] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 17:59:45.603785 2015] [:error] [pid 12159] [client 10.0.2.2:56574] PHP   2. mysqli_query() /var/www/html/db.php:19
+[Thu Nov 12 17:59:45.603916 2015] [:error] [pid 12159] [client 10.0.2.2:56574] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /var/www/html/db.php on line 21
+[Thu Nov 12 17:59:45.604127 2015] [:error] [pid 12159] [client 10.0.2.2:56574] PHP Stack trace:
+[Thu Nov 12 17:59:45.604245 2015] [:error] [pid 12159] [client 10.0.2.2:56574] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 18:06:26.501734 2015] [:error] [pid 12156] [client 10.0.2.2:56742] PHP Notice:  Undefined variable: con in /var/www/html/db.php on line 19
+[Thu Nov 12 18:06:26.501882 2015] [:error] [pid 12156] [client 10.0.2.2:56742] PHP Stack trace:
+[Thu Nov 12 18:06:26.501958 2015] [:error] [pid 12156] [client 10.0.2.2:56742] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 18:06:26.502041 2015] [:error] [pid 12156] [client 10.0.2.2:56742] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/html/db.php on line 19
+[Thu Nov 12 18:06:26.502108 2015] [:error] [pid 12156] [client 10.0.2.2:56742] PHP Stack trace:
+[Thu Nov 12 18:06:26.502173 2015] [:error] [pid 12156] [client 10.0.2.2:56742] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 18:06:26.502236 2015] [:error] [pid 12156] [client 10.0.2.2:56742] PHP   2. mysqli_query() /var/www/html/db.php:19
+[Thu Nov 12 18:06:26.502312 2015] [:error] [pid 12156] [client 10.0.2.2:56742] PHP Fatal error:  Call to undefined function myqsli_fetch_array() in /var/www/html/db.php on line 21
+[Thu Nov 12 18:06:26.502387 2015] [:error] [pid 12156] [client 10.0.2.2:56742] PHP Stack trace:
+[Thu Nov 12 18:06:26.502452 2015] [:error] [pid 12156] [client 10.0.2.2:56742] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 18:06:28.106411 2015] [:error] [pid 12155] [client 10.0.2.2:56744] PHP Notice:  Undefined variable: con in /var/www/html/db.php on line 19
+[Thu Nov 12 18:06:28.106768 2015] [:error] [pid 12155] [client 10.0.2.2:56744] PHP Stack trace:
+[Thu Nov 12 18:06:28.106898 2015] [:error] [pid 12155] [client 10.0.2.2:56744] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 18:06:28.107050 2015] [:error] [pid 12155] [client 10.0.2.2:56744] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/html/db.php on line 19
+[Thu Nov 12 18:06:28.107191 2015] [:error] [pid 12155] [client 10.0.2.2:56744] PHP Stack trace:
+[Thu Nov 12 18:06:28.107317 2015] [:error] [pid 12155] [client 10.0.2.2:56744] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 18:06:28.107438 2015] [:error] [pid 12155] [client 10.0.2.2:56744] PHP   2. mysqli_query() /var/www/html/db.php:19
+[Thu Nov 12 18:06:28.107613 2015] [:error] [pid 12155] [client 10.0.2.2:56744] PHP Fatal error:  Call to undefined function myqsli_fetch_array() in /var/www/html/db.php on line 21
+[Thu Nov 12 18:06:28.107777 2015] [:error] [pid 12155] [client 10.0.2.2:56744] PHP Stack trace:
+[Thu Nov 12 18:06:28.107905 2015] [:error] [pid 12155] [client 10.0.2.2:56744] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 18:06:38.758286 2015] [:error] [pid 12158] [client 10.0.2.2:56748] PHP Notice:  Undefined variable: con in /var/www/html/db.php on line 19
+[Thu Nov 12 18:06:38.758459 2015] [:error] [pid 12158] [client 10.0.2.2:56748] PHP Stack trace:
+[Thu Nov 12 18:06:38.758646 2015] [:error] [pid 12158] [client 10.0.2.2:56748] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 18:06:38.758761 2015] [:error] [pid 12158] [client 10.0.2.2:56748] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/html/db.php on line 19
+[Thu Nov 12 18:06:38.758871 2015] [:error] [pid 12158] [client 10.0.2.2:56748] PHP Stack trace:
+[Thu Nov 12 18:06:38.758988 2015] [:error] [pid 12158] [client 10.0.2.2:56748] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 18:06:38.759111 2015] [:error] [pid 12158] [client 10.0.2.2:56748] PHP   2. mysqli_query() /var/www/html/db.php:19
+[Thu Nov 12 18:06:38.759245 2015] [:error] [pid 12158] [client 10.0.2.2:56748] PHP Fatal error:  Call to undefined function myqsli_fetch_array() in /var/www/html/db.php on line 21
+[Thu Nov 12 18:06:38.759352 2015] [:error] [pid 12158] [client 10.0.2.2:56748] PHP Stack trace:
+[Thu Nov 12 18:06:38.759421 2015] [:error] [pid 12158] [client 10.0.2.2:56748] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 18:07:16.508105 2015] [:error] [pid 18965] [client 10.0.2.2:56761] PHP Notice:  Undefined variable: con in /var/www/html/db.php on line 19
+[Thu Nov 12 18:07:16.508266 2015] [:error] [pid 18965] [client 10.0.2.2:56761] PHP Stack trace:
+[Thu Nov 12 18:07:16.508351 2015] [:error] [pid 18965] [client 10.0.2.2:56761] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 18:07:16.508445 2015] [:error] [pid 18965] [client 10.0.2.2:56761] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/html/db.php on line 19
+[Thu Nov 12 18:07:16.508545 2015] [:error] [pid 18965] [client 10.0.2.2:56761] PHP Stack trace:
+[Thu Nov 12 18:07:16.508687 2015] [:error] [pid 18965] [client 10.0.2.2:56761] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 18:07:16.508791 2015] [:error] [pid 18965] [client 10.0.2.2:56761] PHP   2. mysqli_query() /var/www/html/db.php:19
+[Thu Nov 12 18:07:16.508918 2015] [:error] [pid 18965] [client 10.0.2.2:56761] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /var/www/html/db.php on line 21
+[Thu Nov 12 18:07:16.509079 2015] [:error] [pid 18965] [client 10.0.2.2:56761] PHP Stack trace:
+[Thu Nov 12 18:07:16.509231 2015] [:error] [pid 18965] [client 10.0.2.2:56761] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 18:07:16.509383 2015] [:error] [pid 18965] [client 10.0.2.2:56761] PHP   2. mysqli_fetch_array() /var/www/html/db.php:21
+[Thu Nov 12 18:07:18.279717 2015] [:error] [pid 18965] [client 10.0.2.2:56761] PHP Notice:  Undefined variable: con in /var/www/html/db.php on line 19
+[Thu Nov 12 18:07:18.279948 2015] [:error] [pid 18965] [client 10.0.2.2:56761] PHP Stack trace:
+[Thu Nov 12 18:07:18.280067 2015] [:error] [pid 18965] [client 10.0.2.2:56761] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 18:07:18.280187 2015] [:error] [pid 18965] [client 10.0.2.2:56761] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/html/db.php on line 19
+[Thu Nov 12 18:07:18.280292 2015] [:error] [pid 18965] [client 10.0.2.2:56761] PHP Stack trace:
+[Thu Nov 12 18:07:18.280399 2015] [:error] [pid 18965] [client 10.0.2.2:56761] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 18:07:18.280505 2015] [:error] [pid 18965] [client 10.0.2.2:56761] PHP   2. mysqli_query() /var/www/html/db.php:19
+[Thu Nov 12 18:07:18.280623 2015] [:error] [pid 18965] [client 10.0.2.2:56761] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /var/www/html/db.php on line 21
+[Thu Nov 12 18:07:18.280766 2015] [:error] [pid 18965] [client 10.0.2.2:56761] PHP Stack trace:
+[Thu Nov 12 18:07:18.280841 2015] [:error] [pid 18965] [client 10.0.2.2:56761] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 18:07:18.280908 2015] [:error] [pid 18965] [client 10.0.2.2:56761] PHP   2. mysqli_fetch_array() /var/www/html/db.php:21
+[Thu Nov 12 18:11:05.577799 2015] [:error] [pid 12156] [client 10.0.2.2:56884] PHP Notice:  Undefined variable: con in /var/www/html/db.php on line 19
+[Thu Nov 12 18:11:05.578001 2015] [:error] [pid 12156] [client 10.0.2.2:56884] PHP Stack trace:
+[Thu Nov 12 18:11:05.578123 2015] [:error] [pid 12156] [client 10.0.2.2:56884] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 18:11:05.578251 2015] [:error] [pid 12156] [client 10.0.2.2:56884] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/html/db.php on line 19
+[Thu Nov 12 18:11:05.578362 2015] [:error] [pid 12156] [client 10.0.2.2:56884] PHP Stack trace:
+[Thu Nov 12 18:11:05.578476 2015] [:error] [pid 12156] [client 10.0.2.2:56884] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 18:11:05.578701 2015] [:error] [pid 12156] [client 10.0.2.2:56884] PHP   2. mysqli_query() /var/www/html/db.php:19
+[Thu Nov 12 18:11:05.578904 2015] [:error] [pid 12156] [client 10.0.2.2:56884] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /var/www/html/db.php on line 21
+[Thu Nov 12 18:11:05.578973 2015] [:error] [pid 12156] [client 10.0.2.2:56884] PHP Stack trace:
+[Thu Nov 12 18:11:05.579046 2015] [:error] [pid 12156] [client 10.0.2.2:56884] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 18:11:05.579107 2015] [:error] [pid 12156] [client 10.0.2.2:56884] PHP   2. mysqli_fetch_array() /var/www/html/db.php:21
+[Thu Nov 12 18:11:07.391610 2015] [:error] [pid 12156] [client 10.0.2.2:56884] PHP Notice:  Undefined variable: con in /var/www/html/db.php on line 19
+[Thu Nov 12 18:11:07.391759 2015] [:error] [pid 12156] [client 10.0.2.2:56884] PHP Stack trace:
+[Thu Nov 12 18:11:07.391844 2015] [:error] [pid 12156] [client 10.0.2.2:56884] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 18:11:07.391934 2015] [:error] [pid 12156] [client 10.0.2.2:56884] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /var/www/html/db.php on line 19
+[Thu Nov 12 18:11:07.392025 2015] [:error] [pid 12156] [client 10.0.2.2:56884] PHP Stack trace:
+[Thu Nov 12 18:11:07.392107 2015] [:error] [pid 12156] [client 10.0.2.2:56884] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 18:11:07.392186 2015] [:error] [pid 12156] [client 10.0.2.2:56884] PHP   2. mysqli_query() /var/www/html/db.php:19
+[Thu Nov 12 18:11:07.392276 2015] [:error] [pid 12156] [client 10.0.2.2:56884] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /var/www/html/db.php on line 21
+[Thu Nov 12 18:11:07.392354 2015] [:error] [pid 12156] [client 10.0.2.2:56884] PHP Stack trace:
+[Thu Nov 12 18:11:07.392435 2015] [:error] [pid 12156] [client 10.0.2.2:56884] PHP   1. {main}() /var/www/html/db.php:0
+[Thu Nov 12 18:11:07.392543 2015] [:error] [pid 12156] [client 10.0.2.2:56884] PHP   2. mysqli_fetch_array() /var/www/html/db.php:21
+[Thu Nov 12 21:39:48.980677 2015] [mpm_event:notice] [pid 5567:tid 140295573985152] AH00489: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Thu Nov 12 21:39:48.980859 2015] [core:notice] [pid 5567:tid 140295573985152] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Nov 12 21:39:51.253304 2015] [mpm_event:notice] [pid 5567:tid 140295573985152] AH00491: caught SIGTERM, shutting down
+[Thu Nov 12 21:39:52.310468 2015] [mpm_prefork:notice] [pid 6175] AH00163: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Thu Nov 12 21:39:52.311209 2015] [core:notice] [pid 6175] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Nov 12 21:39:53.517273 2015] [mpm_prefork:notice] [pid 6175] AH00169: caught SIGTERM, shutting down
+[Thu Nov 12 21:39:54.608028 2015] [mpm_prefork:notice] [pid 6251] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.14 configured -- resuming normal operations
+[Thu Nov 12 21:39:54.609080 2015] [core:notice] [pid 6251] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Nov 12 21:40:38.481991 2015] [mpm_prefork:notice] [pid 6251] AH00169: caught SIGTERM, shutting down
+[Thu Nov 12 21:40:39.608282 2015] [mpm_prefork:notice] [pid 7014] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.14 configured -- resuming normal operations
+[Thu Nov 12 21:40:39.608813 2015] [core:notice] [pid 7014] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Nov 12 22:11:40.030131 2015] [mpm_event:notice] [pid 5632:tid 140421623826304] AH00489: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Thu Nov 12 22:11:40.030504 2015] [core:notice] [pid 5632:tid 140421623826304] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Nov 12 22:11:42.336083 2015] [mpm_event:notice] [pid 5632:tid 140421623826304] AH00491: caught SIGTERM, shutting down
+[Thu Nov 12 22:11:43.402005 2015] [mpm_prefork:notice] [pid 6240] AH00163: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Thu Nov 12 22:11:43.402752 2015] [core:notice] [pid 6240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Nov 12 22:11:44.640860 2015] [mpm_prefork:notice] [pid 6240] AH00169: caught SIGTERM, shutting down
+[Thu Nov 12 22:11:45.732197 2015] [mpm_prefork:notice] [pid 6316] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.14 configured -- resuming normal operations
+[Thu Nov 12 22:11:45.732698 2015] [core:notice] [pid 6316] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Nov 12 22:12:04.551191 2015] [mpm_prefork:notice] [pid 6316] AH00169: caught SIGTERM, shutting down
+[Thu Nov 12 22:12:05.699522 2015] [mpm_prefork:notice] [pid 7079] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.14 configured -- resuming normal operations
+[Thu Nov 12 22:12:05.699873 2015] [core:notice] [pid 7079] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Nov 13 01:04:45.884881 2015] [mpm_event:notice] [pid 5956:tid 140042593855360] AH00489: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Fri Nov 13 01:04:45.885160 2015] [core:notice] [pid 5956:tid 140042593855360] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Nov 13 01:04:48.323214 2015] [mpm_event:notice] [pid 5956:tid 140042593855360] AH00491: caught SIGTERM, shutting down
+[Fri Nov 13 01:04:49.396729 2015] [mpm_prefork:notice] [pid 6564] AH00163: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Fri Nov 13 01:04:49.397387 2015] [core:notice] [pid 6564] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Nov 13 01:04:50.755063 2015] [mpm_prefork:notice] [pid 6564] AH00169: caught SIGTERM, shutting down
+[Fri Nov 13 01:04:51.866176 2015] [mpm_prefork:notice] [pid 6640] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.14 configured -- resuming normal operations
+[Fri Nov 13 01:04:51.866439 2015] [core:notice] [pid 6640] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Nov 13 01:04:59.626525 2015] [mpm_prefork:notice] [pid 6640] AH00169: caught SIGTERM, shutting down
+[Fri Nov 13 01:05:00.778597 2015] [mpm_prefork:notice] [pid 7403] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.14 configured -- resuming normal operations
+[Fri Nov 13 01:05:00.778924 2015] [core:notice] [pid 7403] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Nov 13 01:10:28.841679 2015] [mpm_event:notice] [pid 5933:tid 140316095580032] AH00489: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Fri Nov 13 01:10:28.842159 2015] [core:notice] [pid 5933:tid 140316095580032] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Nov 13 01:10:31.189908 2015] [mpm_event:notice] [pid 5933:tid 140316095580032] AH00491: caught SIGTERM, shutting down
+[Fri Nov 13 01:10:32.254450 2015] [mpm_prefork:notice] [pid 6541] AH00163: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Fri Nov 13 01:10:32.255127 2015] [core:notice] [pid 6541] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Nov 13 01:10:33.500197 2015] [mpm_prefork:notice] [pid 6541] AH00169: caught SIGTERM, shutting down
+[Fri Nov 13 01:10:34.593999 2015] [mpm_prefork:notice] [pid 6617] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.14 configured -- resuming normal operations
+[Fri Nov 13 01:10:34.594582 2015] [core:notice] [pid 6617] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Nov 13 01:10:39.717442 2015] [mpm_prefork:notice] [pid 6617] AH00169: caught SIGTERM, shutting down
+[Fri Nov 13 01:10:40.867172 2015] [mpm_prefork:notice] [pid 7374] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.14 configured -- resuming normal operations
+[Fri Nov 13 01:10:40.867504 2015] [core:notice] [pid 7374] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Nov 13 01:25:08.350000 2015] [mpm_event:notice] [pid 7520:tid 140038142441344] AH00489: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Fri Nov 13 01:25:08.350423 2015] [core:notice] [pid 7520:tid 140038142441344] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Nov 13 01:25:10.955858 2015] [mpm_event:notice] [pid 7520:tid 140038142441344] AH00491: caught SIGTERM, shutting down
+[Fri Nov 13 01:25:12.023274 2015] [mpm_prefork:notice] [pid 8128] AH00163: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Fri Nov 13 01:25:12.023532 2015] [core:notice] [pid 8128] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Nov 13 01:25:13.262015 2015] [mpm_prefork:notice] [pid 8128] AH00169: caught SIGTERM, shutting down
+[Fri Nov 13 01:25:14.365996 2015] [mpm_prefork:notice] [pid 8204] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.14 configured -- resuming normal operations
+[Fri Nov 13 01:25:14.366267 2015] [core:notice] [pid 8204] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Nov 13 01:25:19.742379 2015] [mpm_prefork:notice] [pid 8204] AH00169: caught SIGTERM, shutting down
+[Fri Nov 13 01:25:20.891564 2015] [mpm_prefork:notice] [pid 8961] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.14 configured -- resuming normal operations
+[Fri Nov 13 01:25:20.892114 2015] [core:notice] [pid 8961] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Nov 13 13:36:58.733397 2015] [mpm_event:notice] [pid 5934:tid 139718445709184] AH00489: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Fri Nov 13 13:36:58.733753 2015] [core:notice] [pid 5934:tid 139718445709184] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Nov 13 13:37:01.114862 2015] [mpm_event:notice] [pid 5934:tid 139718445709184] AH00491: caught SIGTERM, shutting down
+[Fri Nov 13 13:37:02.189365 2015] [mpm_prefork:notice] [pid 6542] AH00163: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Fri Nov 13 13:37:02.189806 2015] [core:notice] [pid 6542] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Nov 13 13:37:03.439407 2015] [mpm_prefork:notice] [pid 6542] AH00169: caught SIGTERM, shutting down
+[Fri Nov 13 13:37:04.538833 2015] [mpm_prefork:notice] [pid 6618] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.14 configured -- resuming normal operations
+[Fri Nov 13 13:37:04.539644 2015] [core:notice] [pid 6618] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Nov 13 13:37:10.133217 2015] [mpm_prefork:notice] [pid 6618] AH00169: caught SIGTERM, shutting down
+[Fri Nov 13 13:37:11.273602 2015] [mpm_prefork:notice] [pid 7375] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.14 configured -- resuming normal operations
+[Fri Nov 13 13:37:11.274199 2015] [core:notice] [pid 7375] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Nov 13 13:39:58.619696 2015] [:error] [pid 13297] [client 10.0.2.2:52142] PHP Warning:  mysqli_connect(): (HY000/2013): Lost connection to MySQL server at 'reading initial communication packet', system error: 0 in /var/www/html/db.php on line 11, referer: http://localhost:8080/
+[Fri Nov 13 13:39:58.619988 2015] [:error] [pid 13297] [client 10.0.2.2:52142] PHP Stack trace:, referer: http://localhost:8080/
+[Fri Nov 13 13:39:58.620124 2015] [:error] [pid 13297] [client 10.0.2.2:52142] PHP   1. {main}() /var/www/html/db.php:0, referer: http://localhost:8080/
+[Fri Nov 13 13:39:58.620247 2015] [:error] [pid 13297] [client 10.0.2.2:52142] PHP   2. mysqli_connect() /var/www/html/db.php:11, referer: http://localhost:8080/
+[Fri Nov 27 12:20:55.048706 2015] [mpm_event:notice] [pid 5936:tid 140304180443008] AH00489: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Fri Nov 27 12:20:55.107651 2015] [core:notice] [pid 5936:tid 140304180443008] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Nov 27 12:21:01.964625 2015] [mpm_event:notice] [pid 5936:tid 140304180443008] AH00491: caught SIGTERM, shutting down
+[Fri Nov 27 12:21:04.136666 2015] [mpm_prefork:notice] [pid 6544] AH00163: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Fri Nov 27 12:21:04.173320 2015] [core:notice] [pid 6544] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Nov 27 12:21:05.701507 2015] [mpm_prefork:notice] [pid 6544] AH00169: caught SIGTERM, shutting down
+[Fri Nov 27 12:21:06.848270 2015] [mpm_prefork:notice] [pid 6620] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.14 configured -- resuming normal operations
+[Fri Nov 27 12:21:06.848559 2015] [core:notice] [pid 6620] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Nov 27 12:21:25.679553 2015] [mpm_prefork:notice] [pid 6620] AH00169: caught SIGTERM, shutting down
+[Fri Nov 27 12:21:26.796447 2015] [mpm_prefork:notice] [pid 7377] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.14 configured -- resuming normal operations
+[Fri Nov 27 12:21:26.796765 2015] [core:notice] [pid 7377] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jun 14 13:20:22.464591 2016] [mpm_event:notice] [pid 9043:tid 140238322796416] AH00489: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Tue Jun 14 13:20:22.465072 2016] [core:notice] [pid 9043:tid 140238322796416] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jun 14 13:20:24.782485 2016] [mpm_event:notice] [pid 9043:tid 140238322796416] AH00491: caught SIGTERM, shutting down
+[Tue Jun 14 13:20:25.847781 2016] [mpm_prefork:notice] [pid 9651] AH00163: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Tue Jun 14 13:20:25.848447 2016] [core:notice] [pid 9651] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jun 14 13:20:27.131460 2016] [mpm_prefork:notice] [pid 9651] AH00169: caught SIGTERM, shutting down
+[Tue Jun 14 13:20:28.228516 2016] [mpm_prefork:notice] [pid 9727] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.17 configured -- resuming normal operations
+[Tue Jun 14 13:20:28.229180 2016] [core:notice] [pid 9727] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jun 14 13:20:34.733532 2016] [mpm_prefork:notice] [pid 9727] AH00169: caught SIGTERM, shutting down
+[Tue Jun 14 13:20:35.911455 2016] [mpm_prefork:notice] [pid 10491] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.17 configured -- resuming normal operations
+[Tue Jun 14 13:20:35.911784 2016] [core:notice] [pid 10491] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jun 14 13:22:16.574439 2016] [:error] [pid 10498] [client 10.0.2.2:62018] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on 'mysql' (111) in /var/www/html/db.php on line 11, referer: http://localhost:8080/
+[Tue Jun 14 13:22:16.574753 2016] [:error] [pid 10498] [client 10.0.2.2:62018] PHP Stack trace:, referer: http://localhost:8080/
+[Tue Jun 14 13:22:16.574883 2016] [:error] [pid 10498] [client 10.0.2.2:62018] PHP   1. {main}() /var/www/html/db.php:0, referer: http://localhost:8080/
+[Tue Jun 14 13:22:16.574964 2016] [:error] [pid 10498] [client 10.0.2.2:62018] PHP   2. mysqli_connect() /var/www/html/db.php:11, referer: http://localhost:8080/
+[Tue Jun 14 13:23:31.233041 2016] [:error] [pid 10499] [client 10.0.2.2:62041] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on 'mysql' (111) in /var/www/html/db.php on line 11, referer: http://localhost:8080/
+[Tue Jun 14 13:23:31.233307 2016] [:error] [pid 10499] [client 10.0.2.2:62041] PHP Stack trace:, referer: http://localhost:8080/
+[Tue Jun 14 13:23:31.233497 2016] [:error] [pid 10499] [client 10.0.2.2:62041] PHP   1. {main}() /var/www/html/db.php:0, referer: http://localhost:8080/
+[Tue Jun 14 13:23:31.233678 2016] [:error] [pid 10499] [client 10.0.2.2:62041] PHP   2. mysqli_connect() /var/www/html/db.php:11, referer: http://localhost:8080/
+[Tue Jun 14 13:30:35.302866 2016] [mpm_event:notice] [pid 9046:tid 139985543149440] AH00489: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Tue Jun 14 13:30:35.303182 2016] [core:notice] [pid 9046:tid 139985543149440] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jun 14 13:30:37.709416 2016] [mpm_event:notice] [pid 9046:tid 139985543149440] AH00491: caught SIGTERM, shutting down
+[Tue Jun 14 13:30:38.779780 2016] [mpm_prefork:notice] [pid 9655] AH00163: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Tue Jun 14 13:30:38.780302 2016] [core:notice] [pid 9655] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jun 14 13:30:40.080197 2016] [mpm_prefork:notice] [pid 9655] AH00169: caught SIGTERM, shutting down
+[Tue Jun 14 13:30:41.172899 2016] [mpm_prefork:notice] [pid 9731] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.17 configured -- resuming normal operations
+[Tue Jun 14 13:30:41.173228 2016] [core:notice] [pid 9731] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jun 14 13:30:46.863547 2016] [mpm_prefork:notice] [pid 9731] AH00169: caught SIGTERM, shutting down
+[Tue Jun 14 13:30:48.008927 2016] [mpm_prefork:notice] [pid 10494] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.17 configured -- resuming normal operations
+[Tue Jun 14 13:30:48.009539 2016] [core:notice] [pid 10494] AH00094: Command line: '/usr/sbin/apache2'
